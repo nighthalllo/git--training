@@ -9,7 +9,7 @@ void main(){
 	printf("Average grade: 95 \n");
 
 printf("push 2");
-
+printf("change");
 printf("push 1");
 }
 
